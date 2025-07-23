@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-07-18T05:00:34.255Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-18T05:00:56.281Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-19T16:19:00.914Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-20T02:00:12.132Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:07:30.545Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:07:44.699Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:09:44.388Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:09:55.435Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:10:11.546Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:10:22.799Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:10:42.399Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:10:55.604Z",
+    "status": "online",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:10:57.794Z",
+    "status": "offline",
+    "isRestart": false
+  },
+  {
+    "timestamp": "2025-07-22T14:11:11.071Z",
+    "status": "online",
+    "isRestart": false
+  }
+]
