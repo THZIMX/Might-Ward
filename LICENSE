@@ -1,0 +1,100 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Versão 3, 19 de novembro de 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Todos podem copiar e distribuir versões literais desta
+ licença, mas não é permitido modificá-la.
+
+                            PREÂMBULO
+
+  A GNU Affero General Public License é uma licença livre, copyleft
+  para software e outros tipos de trabalhos, especificamente projetada
+  para garantir cooperação com a comunidade no caso de software de rede.
+
+  Esta licença aplica-se a qualquer programa ou trabalho que contenha
+  uma nota colocada pelo detentor dos direitos autorais dizendo que
+  pode ser distribuído sob os termos desta Licença.
+
+TERMOS E CONDIÇÕES PARA USO, MODIFICAÇÃO E DISTRIBUIÇÃO:
+
+0. Definições:
+   - "Programa" = Qualquer trabalho licenciado sob esta licença
+   - "Trabalho Derivado" = Modificações baseadas no Programa original
+   - "Servidor de Rede" = Qualquer servidor que execute o Programa
+
+1. Permissões Básicas:
+   - Você pode usar, modificar e distribuir o Programa
+   - Pode cobrar por serviços relacionados ao Programa
+   - Deve incluir esta licença e todos os avisos originais
+
+2. Requisitos para Distribuição:
+   - Deve disponibilizar o código fonte completo
+   - Deve manter todos os créditos e avisos legais
+   - Qualquer Trabalho Derivado deve usar a mesma licença
+
+3. Requisitos para Software como Serviço (SaaS):
+   - Se executar o Programa em um servidor acessível ao público,
+     deve disponibilizar o código fonte completo aos usuários
+
+4. Restrições:
+   - Não pode remover ou alterar avisos de licença
+   - Não pode sublicenciar sob termos diferentes
+   - Não pode usar marcas registradas do autor sem permissão
+
+5. Isenção de Garantia:
+   - O Programa é fornecido "COMO ESTÁ", sem garantias
+   - O autor não é responsável por danos decorrentes do uso
+
+6. Cláusula Final:
+   - Violações desta licença resultam em rescisão automática dos direitos
+
+Para perguntas sobre esta licença, contate:
+Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor
+Boston, MA 02110-1301 USA
+
+=======================================================================
+
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                             Preamble
+
+  The GNU Affero General Public License is a free, copyleft license
+  for software and other kinds of works, specifically designed to
+  ensure cooperation with the community in the case of network server software.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION:
+
+1. Basic Permissions:
+   - You may use, modify, and distribute the Program
+   - You may charge for services related to the Program
+   - Must include this license and all original notices
+
+2. Source Code Requirements:
+   - Must provide complete corresponding source code
+   - Must maintain all copyright notices
+   - Derivative works must use same license
+
+3. Network Use Requirements:
+   - If you run the Program on a server accessible to the public,
+     you must provide full source code to users
+
+4. Restrictions:
+   - You may not remove license notices
+   - You may not sublicense under different terms
+   - You may not use authors' trademarks without permission
+
+5. Disclaimer:
+   - The Program is provided "AS IS" without warranties
+   - Author is not liable for damages from use
+
+6. Termination:
+   - Violations automatically terminate your rights
+
+For the full legal text in English, see:
+https://www.gnu.org/licenses/agpl-3.0.txt
