@@ -24,7 +24,7 @@
 - ⚙️ Configuração intuitiva via Discord
 - 📊 Analytics e relatórios automáticos
 
-🔗 [Site Oficial](https://mightward.abccloud.com.br) | [Suporte](#) | [Documentação](#)
+🔗 [Site Oficial](https://mightward.abccloud.com.br) | [Suporte](https://discord.gg/rwWhZ4GjWP) | [Documentação](https://github.com/THZIMX/Might-Ward/)
 
 ---
 
