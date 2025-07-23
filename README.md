@@ -90,4 +90,4 @@ Aceitamos contribuições seguindo estas diretrizes:
 **Ano:** 2024  
 
 💙 Discord theeuss_x  
-🌐 Website: [mightward.abccloud.com.br](https://mightward.abccloud.com.br)  
+🌐 Website: [mightward.abccloud.com.br](https://mightward.abccloud.com.br) 
