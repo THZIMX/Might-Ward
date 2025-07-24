@@ -86,7 +86,7 @@ Aceitamos contribuições seguindo estas diretrizes:
 
 ## 📞 Contato
 
-**Autor:** THZIM  
+**Autor:** THZIMX 
 **Ano:** 2024  
 
 💙 Discord theeuss_x  
