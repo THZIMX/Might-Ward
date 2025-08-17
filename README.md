@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://mightward.abccloud.com.br/images/logo.png" height="120" alt="MightWard Logo">
+  <img src="https://wardizitto.abccloud.com.br/images/logo.png" height="120" alt="MightWard Logo">
   <h1>MightWard Discord Bot</h1>
   
   <p>
@@ -24,7 +24,7 @@
 - ⚙️ Configuração intuitiva via Discord
 - 📊 Analytics e relatórios automáticos
 
-🔗 [Site Oficial](https://mightward.abccloud.com.br) | [Suporte](https://discord.gg/rwWhZ4GjWP) | [Documentação](https://github.com/THZIMX/Might-Ward/)
+🔗 [Site Oficial](https://wardizitto.abccloud.com.br) | [Suporte](https://discord.gg/rwWhZ4GjWP) | [Documentação](https://github.com/THZIMX/Might-Ward/)
 
 ---
 
